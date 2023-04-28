@@ -12,7 +12,6 @@ const Login: React.FC<LoginProps> = ({}) => {
     setIsLoading(true);
     try {
       await signIn('google');
-      console.log('15');
     } catch (error) {
       toast.error('Some thing went wrong with your login');
     } finally {
