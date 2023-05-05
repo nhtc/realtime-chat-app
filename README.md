@@ -39,3 +39,4 @@ git commit -m ":sparkles: for a new feature"
 git commit -m ":bug: for a bug fix"
 git commit -m ":books: for documentation"
 git commit -m ":hammer: for code refactoring"
+1
